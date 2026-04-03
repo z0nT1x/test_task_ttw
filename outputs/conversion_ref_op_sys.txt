@@ -1,0 +1,17 @@
+referral_source|device_type|convertion_rate|
+---------------+-----------+---------------+
+Direct         |Android    |          35.29|
+Direct         |iOS        |          23.08|
+Direct         |Web        |          15.38|
+Facebook       |Android    |          16.67|
+Facebook       |iOS        |          27.27|
+Facebook       |Web        |          41.94|
+Google         |Android    |          25.58|
+Google         |iOS        |          33.33|
+Google         |Web        |          25.81|
+Instagram      |Android    |          42.00|
+Instagram      |iOS        |          29.63|
+Instagram      |Web        |          42.86|
+Referral       |Android    |          23.08|
+Referral       |iOS        |          28.00|
+Referral       |Web        |          30.23|

@@ -1,0 +1,5 @@
+device_type|total_users|total_requests|total_interactions|total_orders|conv_request_to_order_pct|
+-----------+-----------+--------------+------------------+------------+-------------------------+
+Android    |         80|           212|               296|          62|                    29.25|
+iOS        |         51|           115|               181|          33|                    28.70|
+Web        |         69|           173|               237|          55|                    31.79|
